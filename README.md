@@ -7,4 +7,4 @@
   - [PixiJS指南](Frontend/PixiJS指南.md)
   - [Websocket实践心得](Frontend/Websocket实践心得.md)
   - [JS解释器模拟](Frontend/JS解释器模拟.md)
-  - [组件库开发（零）](Frontend/组件库开发小记/组件库开发（零）.md)
+  - [组件库开发小记](Frontend/组件库开发小记/组件库开发（零）.md)

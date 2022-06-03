@@ -71,7 +71,7 @@ app.on("window-all-closed", function () {
 function createMainWindow() {
   let mainWindow = new BrowserWindow({
     frame: false, // no border
-    // resizable: false,		// no resize
+    // resizable: false,        // no resize
     width: 800,
     height: 600,
     icon: iconPath,
